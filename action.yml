@@ -12,6 +12,7 @@ inputs:
     required: true
     default: action
 
+
   token:
     description: Access token authorized to run workflows (for Action)
     required: false
